@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>基本信息</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/基本信息/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/基本信息/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (图片) -->
+      <div id="u30" class="ax_default image">
+        <img id="u30_img" class="img " src="images/基本信息/u30.jpg"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u31" class="ax_default box_1">
+        <div id="u31_div" class=""></div>
+        <div id="u31_text" class="text ">
+          <p style="font-size:20px;"><span style="font-family:'方正舒体';font-weight:400;">从太极阴阳中获得灵感，实现</span></p><p style="font-size:36px;"><span style="font-family:'方正舒体 Bold', '方正舒体 Regular', '方正舒体';font-weight:700;">从无到有</span></p><p style="font-size:36px;"><span style="font-family:'方正舒体 Bold', '方正舒体 Regular', '方正舒体';font-weight:700;">&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; 阴阳合一</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u32" class="ax_default box_1">
+        <div id="u32_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u33" class="ax_default label">
+        <div id="u33_div" class=""></div>
+        <div id="u33_text" class="text ">
+          <p><span style="font-family:'方正舒体 Bold', '方正舒体 Regular', '方正舒体';color:#FFFFFF;">联系我们&nbsp; &nbsp; 电话:021-38282290</span><span style="font-family:'黑体 Bold', '黑体 Regular', '黑体';">&nbsp; &nbsp; &nbsp;&nbsp; </span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u34" class="ax_default button">
+        <div id="u34_div" class=""></div>
+        <div id="u34_text" class="text ">
+          <p><span>反馈</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u35" class="ax_default box_1">
+        <div id="u35_div" class=""></div>
+        <div id="u35_text" class="text ">
+          <p><span>邮箱:ywqs_attdence@163.com&nbsp;&nbsp; 地址:上海市浦东新区临港新城海港大道1550号</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (动态面板) -->
+      <div id="u36" class="ax_default ax_default_hidden" style="display:none; visibility: hidden">
+        <div id="u36_state0" class="panel_state" data-label="State1" style="">
+          <div id="u36_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (组合) -->
+            <div id="u37" class="ax_default" data-left="0" data-top="0" data-width="490" data-height="310">
+
+              <!-- Unnamed (矩形) -->
+              <div id="u38" class="ax_default box_1">
+                <div id="u38_div" class=""></div>
+              </div>
+
+              <!-- Unnamed (多行文本框) -->
+              <div id="u39" class="ax_default text_area">
+                <textarea id="u39_input"></textarea>
+              </div>
+
+              <!-- Unnamed (提交按钮) -->
+              <div id="u40" class="ax_default html_button">
+                <input id="u40_input" type="submit" value="提交"/>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="u36_state1" class="panel_state" data-label="State2" style="visibility: hidden;">
+          <div id="u36_state1_content" class="panel_state_content">
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u41" class="ax_default image">
+        <img id="u41_img" class="img " src="images/基本信息/u41.png"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u42" class="ax_default box_1">
+        <div id="u42_div" class=""></div>
+        <div id="u42_text" class="text ">
+          <p><span style="font-family:'方正舒体';font-weight:400;font-size:20px;">贯彻</span><span style="font-family:'方正舒体 Bold', '方正舒体 Regular', '方正舒体';font-weight:700;font-size:36px;">阴阳鱼</span><span style="font-family:'方正舒体';font-weight:400;font-size:20px;">的概念，采用双重保障，刷卡加人脸识别，编织智慧网，实现</span><span style="font-family:'方正舒体 Bold', '方正舒体 Regular', '方正舒体';font-weight:700;font-size:36px;">一举成擒</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u43" class="ax_default image">
+        <img id="u43_img" class="img " src="images/基本信息/u43.png"/>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u44" class="ax_default box_1">
+        <div id="u44_div" class=""></div>
+        <div id="u44_text" class="text ">
+          <p><span>核心概念</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u45" class="ax_default box_1">
+        <div id="u45_div" class=""></div>
+        <div id="u45_text" class="text ">
+          <p><span style="font-size:20px;">最终共同实现</span><span style="font-size:36px;">深入学习</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u46" class="ax_default image">
+        <img id="u46_img" class="img " src="images/基本信息/u46.png"/>
+      </div>
+    </div>
+  </body>
+</html>
